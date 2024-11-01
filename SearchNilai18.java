@@ -36,8 +36,8 @@ public class SearchNilai18 {
             }
         }
         if (hasil != 0) {
+            System.out.println();
             System.out.println("Nilai " + key + " ketemu, merupakan nilai mahasiswa ke-" + (hasil));
-
         } else {
             System.out.println("Nilai yang dicari tidak ditemukan");
         }
