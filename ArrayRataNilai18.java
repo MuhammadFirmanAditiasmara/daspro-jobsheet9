@@ -12,7 +12,7 @@ public class ArrayRataNilai18 {
         int k;
         double nilaiTdkLulus = 0, nilaiLulus = 0;
 
-        System.out.print("Masukkan jumlah mahasiswa : ");
+        System.out.print("Masukkan banyaknya nilai yang akan diinput : ");
         k = input.nextInt();
 
         int nilaiMhs[] = new int[k];
